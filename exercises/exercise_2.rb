@@ -8,5 +8,5 @@ puts "----------"
 @store1 = Store.find(1)
 @store2 = Store.find(2)
 
-@store1.name = "Whistler"
+@store1.name = "Delta"
 @store1.save
